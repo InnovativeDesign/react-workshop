@@ -1,0 +1,23 @@
+{
+  "name": "react-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reveal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnovativeDesign/react-workshop.git"
+  },
+  "author": "Ethan Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InnovativeDesign/react-workshop/issues"
+  },
+  "homepage": "https://github.com/InnovativeDesign/react-workshop#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
