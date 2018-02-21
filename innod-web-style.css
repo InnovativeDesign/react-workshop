@@ -20,7 +20,7 @@ body {
 }
 
 .reveal h3 {
-  color: gray;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 .reveal code, .reveal pre, .reveal h3 {
